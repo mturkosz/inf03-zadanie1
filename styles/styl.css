@@ -18,18 +18,19 @@ header{
     background-color: indigo;
     text-align: center;
     padding: 2px;
+    height: 10%;
 }
 
 #lewa{
     width: 20%;
-    height: 600px;
+    height: 75%;
     background-color: indigo;
     float: left;
 }
 
 #srodek{
     width: 60%;
-    height: 600px;
+    height: 75%;
     background-color: black;
     float: left;
     overflow: scroll;
@@ -37,14 +38,14 @@ header{
 
 #prawa{
     width: 20%;
-    height: 600px;
+    height: 75%;
     background-color: indigo;
     float: right;
 }
 
 footer{
     clear: both;
-    height: 150px;
+    height: 15%;
     background-color: indigo;
 }
 
@@ -76,3 +77,4 @@ figcaption{
     text-align: center;
 
 }
+
